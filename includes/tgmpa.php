@@ -112,11 +112,11 @@ function bpcast_register_required_plugins() {
 			'required'  => false,
 		),
 
-		array(
-			'name'      => 'WP Approve User',
-			'slug'      => 'wp-approve-user',
-			'required'  => false,
-		),
+		// array(
+		// 	'name'      => 'WP Approve User',
+		// 	'slug'      => 'wp-approve-user',
+		// 	'required'  => false,
+		// ),
 
 		array(
 			'name'      => 'WP User Avatar',
